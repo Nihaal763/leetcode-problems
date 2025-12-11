@@ -11,21 +11,21 @@
  */
 class Solution {
 public:
-    vector<int> ans;
+    int i = 0;
+    int ans;
     int kthSmallest(TreeNode* root, int k) {
-       helper(root);
-       if(k==1){
-        return ans[0];
-       }else{
-        return ans[k-1];
-       }
+       helper(root,k);
+       return ans;
     }
-    void helper(TreeNode* root){
+    void helper(TreeNode* root,int k){
         if(root == nullptr){
             return;
         }
-        helper(root->left);
-        ans.push_back(root->val);
-        helper(root->right);
+        helper(root->left,k);
+        ++i;
+        if(i==k){
+           ans = root->val;
+        }
+        helper(root->right,k);
     }
 };
