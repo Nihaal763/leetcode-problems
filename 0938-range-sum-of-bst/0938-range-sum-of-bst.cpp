@@ -17,7 +17,7 @@ public:
         helper(root);
         for(int i=0;i<ans.size();++i){
             if(ans[i]>=low && ans[i]<=high){
-               sum = sum + ans[i];
+               sum += ans[i];
             }
         }
         return sum;
