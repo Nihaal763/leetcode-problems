@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nihaal763/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nihaal763/leetcode-problems/tree/master/0938-range-sum-of-bst) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nihaal763/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nihaal763/leetcode-problems/tree/master/0938-range-sum-of-bst) |
@@ -26,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nihaal763/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nihaal763/leetcode-problems/tree/master/0938-range-sum-of-bst) |
@@ -35,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nihaal763/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nihaal763/leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nihaal763/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Sorting
