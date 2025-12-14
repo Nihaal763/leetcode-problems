@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        int N = nums.size();
+        int s = 0;
+        int e = N-1;
+        while(s<=e){
+            int m = (s+e)/2;
+            if(nums[m]==target){
+                return m;
+            }if(nums[m]>target){
+                e = m-1;
+            }else{
+                s = m+1;
+            }
+        }
+        return -1;
+    }
+};
