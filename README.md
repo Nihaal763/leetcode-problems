@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0669-trim-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/Nihaal763/leetcode-problems/tree/master/0704-binary-search) |
 | [0897-increasing-order-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nihaal763/leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nihaal763/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -58,4 +59,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nihaal763/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/Nihaal763/leetcode-problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
