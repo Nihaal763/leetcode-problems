@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    vector<int> ans;
+    int c= 0;
     int countNodes(TreeNode* root) {
         preorder(root);
-        return ans.size();
+        return c;
     }
     void preorder(TreeNode* root){
         if(root == nullptr){
             return;
         }
         preorder(root->left);
-        ans.push_back(root->val);
+        c+=1;
         preorder(root->right);
     }
 };
