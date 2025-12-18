@@ -15,18 +15,18 @@ public:
         if(root == nullptr){
             return true;
         }
-        return isMirror(root->left,root->right);
+        return sym(root->left,root->right);
     }
-    bool isMirror(TreeNode* t1,TreeNode* t2){
-        if(t1 == nullptr && t2 == nullptr){
+    bool sym(TreeNode* t1,TreeNode* t2){
+        if(t1==nullptr && t2==nullptr){
             return true;
-        }if(t1 == nullptr || t2 == nullptr){
-            return false;
-        }if(t1->val!=t2->val){
+        }
+        if(t1==nullptr || t2==nullptr){
             return false;
         }
-       bool ans1 = isMirror(t1->left,t2->right);
-       bool ans2 = isMirror(t1->right,t2->left);
-       return ans1 && ans2;
+        if(t1->val!=t2->val){
+            return false;
+        }
+       return sym(t1->left,t2->right) && sym(t1->right,t2->left);
     }
 };
