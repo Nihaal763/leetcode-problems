@@ -11,50 +11,22 @@
  */
 class Solution {
 public:
-    vector<int> l;
-    vector<int> r;
     bool isSymmetric(TreeNode* root) {
-        l.push_back(root->val);
-        r.push_back(root->val);
-        lpreorder(root->left);
-        root->right = rotate(root->right);
-        rpreorder(root->right);
-        if(l.size()!=r.size()){
+        if(root == nullptr){
+            return true;
+        }
+        return isMirror(root->left,root->right);
+    }
+    bool isMirror(TreeNode* t1,TreeNode* t2){
+        if(t1 == nullptr && t2 == nullptr){
+            return true;
+        }if(t1 == nullptr || t2 == nullptr){
+            return false;
+        }if(t1->val!=t2->val){
             return false;
         }
-        for(int i=0;i<l.size();++i){
-            if(l[i]!=r[i]){
-                return false;
-            }
-        }
-        return true;
-    }
-    TreeNode * rotate(TreeNode* root){
-        if(root == nullptr){
-            return nullptr;
-        }
-        TreeNode * a = rotate(root->left);
-        TreeNode * b = rotate(root->right);
-        root->left = b;
-        root->right = a;
-        return root;
-    }
-    void lpreorder(TreeNode* root){
-        if(root == nullptr){
-            l.push_back(INT_MIN);
-            return;
-        }
-        l.push_back(root->val);
-        lpreorder(root->left);
-        lpreorder(root->right);
-    }
-    void rpreorder(TreeNode* root){
-        if(root == nullptr){
-            r.push_back(INT_MIN);
-            return;
-        }
-        r.push_back(root->val);
-        rpreorder(root->left);
-        rpreorder(root->right);
+       bool ans1 = isMirror(t1->left,t2->right);
+       bool ans2 = isMirror(t1->right,t2->left);
+       return ans1 && ans2;
     }
 };
