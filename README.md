@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nihaal763/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Nihaal763/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nihaal763/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Nihaal763/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nihaal763/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0226-invert-binary-tree) |
@@ -75,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0226-invert-binary-tree) |
 ## Bit Manipulation
