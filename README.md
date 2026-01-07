@@ -135,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
