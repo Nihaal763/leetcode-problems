@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Nihaal763/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Nihaal763/leetcode-problems/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Nihaal763/leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Nihaal763/leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Design
 |  |
 | ------- |
