@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nihaal763/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Nihaal763/leetcode-problems/tree/master/0027-remove-element) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nihaal763/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Nihaal763/leetcode-problems/tree/master/0704-binary-search) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nihaal763/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Nihaal763/leetcode-problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Nihaal763/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Nihaal763/leetcode-problems/tree/master/0344-reverse-string) |
 ## Backtracking
