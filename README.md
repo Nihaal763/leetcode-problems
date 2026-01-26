@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Nihaal763/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nihaal763/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0268-missing-number) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Nihaal763/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nihaal763/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Stack
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nihaal763/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nihaal763/leetcode-problems/tree/master/0027-remove-element) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nihaal763/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nihaal763/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Nihaal763/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nihaal763/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -135,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0268-missing-number) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nihaal763/leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Design
@@ -151,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/Nihaal763/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
