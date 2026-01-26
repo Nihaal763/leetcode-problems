@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Nihaal763/leetcode-problems/tree/master/0027-remove-element) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nihaal763/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Nihaal763/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Nihaal763/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Nihaal763/leetcode-problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Nihaal763/leetcode-problems/tree/master/0912-sort-an-array) |
