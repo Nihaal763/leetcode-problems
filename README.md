@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Nihaal763/leetcode-problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Nihaal763/leetcode-problems/tree/master/0912-sort-an-array) |
+| [2942-find-words-containing-character](https://github.com/Nihaal763/leetcode-problems/tree/master/2942-find-words-containing-character) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Nihaal763/leetcode-problems/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nihaal763/leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
+| [2942-find-words-containing-character](https://github.com/Nihaal763/leetcode-problems/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
