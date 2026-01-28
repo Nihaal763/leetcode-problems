@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Nihaal763/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Nihaal763/leetcode-problems/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
+| [0771-jewels-and-stones](https://github.com/Nihaal763/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nihaal763/leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Nihaal763/leetcode-problems/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0268-missing-number) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
+| [0771-jewels-and-stones](https://github.com/Nihaal763/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nihaal763/leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Design
 |  |
