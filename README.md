@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Nihaal763/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nihaal763/leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Nihaal763/leetcode-problems/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nihaal763/leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/Nihaal763/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nihaal763/leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nihaal763/leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
@@ -187,4 +189,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Nihaal763/leetcode-problems/tree/master/0912-sort-an-array) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nihaal763/leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
