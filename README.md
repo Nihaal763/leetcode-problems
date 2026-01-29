@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Nihaal763/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Nihaal763/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Nihaal763/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Nihaal763/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Nihaal763/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Nihaal763/leetcode-problems/tree/master/0257-binary-tree-paths) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Nihaal763/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Nihaal763/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0268-missing-number) |
