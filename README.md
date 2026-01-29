@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Nihaal763/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Nihaal763/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nihaal763/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Nihaal763/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Nihaal763/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Nihaal763/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Nihaal763/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Nihaal763/leetcode-problems/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Nihaal763/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Nihaal763/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nihaal763/leetcode-problems/tree/master/0268-missing-number) |
 | [0648-replace-words](https://github.com/Nihaal763/leetcode-problems/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/Nihaal763/leetcode-problems/tree/master/0771-jewels-and-stones) |
